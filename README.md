@@ -22,5 +22,5 @@ The journey of thrill with sound effect makes your mind blow.
   * Anjitha Antony 
   * [Ankur Rokad ](https://github.com/ankurrokad)
   * [Devadharsini Muralidharan](https://github.com/Devadharsini)
-  * [Gursanjam Kaur] (https://github.com/sv2021)
+  * [Gursanjam Kaur](https://github.com/sv2021)
   * [Sahista Patel](https://github.com/Sahista-Patel)
