@@ -24,3 +24,7 @@ The journey of thrill with sound effect makes your mind blow.
   * [Devadharsini Muralidharan](https://github.com/Devadharsini)
   * [Gursanjam Kaur](https://github.com/sv2021)
   * [Sahista Patel](https://github.com/Sahista-Patel)
+
+## Installation
+'pygame' package installation needed.
+pycharm will fix the imports or 'pip install pygame' on terminal.
